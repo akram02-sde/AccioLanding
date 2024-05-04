@@ -481,6 +481,7 @@ header {
 
 
 #apply {
+    cursor: pointer;
     position: relative;
     font-size: medium;
     text-align: center;
